@@ -181,7 +181,7 @@ const SplashT = [
   "I touched myself",
   "Thanks Ayden",
   "Check out the settings page",
-  "Thanks Chris",
+  "Created by Garret Simpson",
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);
