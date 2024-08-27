@@ -178,10 +178,10 @@ const SplashT = [
   "These are all jokes.",
   "Ported to Vercel by a freshman",
   "9/11 is a canon event",
-  "I touched myself",
+  "qhat",
   "Thanks Ayden",
   "Check out the settings page",
-  "Created by Garrett Simpson",
+  "Hi",
 ];
 
 let SplashI = Math.floor(Math.random() * SplashT.length);
